@@ -1,11 +1,9 @@
-.block {
-    width: 100%;
-    background: #6666FF;
-}
+
 .container {
     text-align: center;
+    background-color: #6666ff
 }
 .nav {
   font-family: "Helvetica";
-  font-size: 30px;
+  font-size: 50px;
 }
