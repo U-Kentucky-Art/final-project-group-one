@@ -12,14 +12,23 @@ h1 {
   font-family: "Avenir";
   font-size: 35px;
   background-color: white;
+
 }
 .weekly_submissions {
   height: 300px;
   width: 200px;
   margin-top: 10px;
-  overflow-x: hidden;
   background-color: white;
 }
 body {
-  background-color: #6666ff
+  background-color: #6666ff;
+}
+.weekly_img1 {
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-top: 10px;
+}
+.images {
+  border-color: #FF9933;
+  border-width: medium;
 }
