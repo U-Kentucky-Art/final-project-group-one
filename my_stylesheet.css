@@ -3,11 +3,23 @@
     text-align: center;
     background-color: #6666ff
 }
+h1 {
+  font-family: "Avenir";
+  font-size: 45px;
+  color: white;
+}
 .nav {
-  font-family: "Helvetica";
-  font-size: 50px;
+  font-family: "Avenir";
+  font-size: 35px;
+  background-color: white;
 }
 .weekly_submissions {
   height: 300px;
   width: 200px;
+  margin-top: 10px;
+  overflow-x: hidden;
+  background-color: white;
+}
+body {
+  background-color: #6666ff
 }
