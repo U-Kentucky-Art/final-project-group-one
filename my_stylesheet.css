@@ -12,20 +12,17 @@ h1 {
   font-family: "Avenir";
   font-size: 35px;
   background-color: white;
-
 }
 .weekly_submissions {
-  height: 300px;
-  width: 200px;
   margin-top: 10px;
-  background-color: white;
+  background-color: #6666ff;
 }
 body {
   background-color: #6666ff;
   align-content: center;
 }
 .weekly_img1 {
-  margin-left: 15px;
+  margin-left: 35px;
   margin-right: 25px;
   margin-top: 10px;
 }
@@ -44,4 +41,14 @@ p {
   font-family: "Avenir";
   font-size: 15px;
   margin-top: 4px;
+}
+header {
+  font-family: "Avenir";
+  font-size: 50px;
+  text-align: center;
+}
+p1 {
+  font-family: "Avenir";
+  font-size: 25px;
+  align-self: center;
 }
