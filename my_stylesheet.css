@@ -15,7 +15,7 @@ h1 {
 }
 .weekly_submissions {
   margin-top: 10px;
-  background-color: #ffffff;
+  background-color: white;
 }
 body {
   background-color: #6666ff;
@@ -45,10 +45,16 @@ p {
 header {
   font-family: "Avenir";
   font-size: 50px;
-  text-align: center;
 }
 p1 {
   font-family: "Avenir";
   font-size: 25px;
   align-self: center;
+}
+h3 {
+  font-family: "Avenir";
+  text-align: center;
+  font-size: 35px;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
