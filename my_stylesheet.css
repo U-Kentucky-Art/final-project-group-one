@@ -58,3 +58,23 @@ h3 {
   margin-top: 5px;
   margin-bottom: 5px;
 }
+.left {
+  position: relative;
+  top: 20px;
+  left: 50px;
+}
+.right {
+  position: relative;
+  left: 670px;
+  bottom: 425px;
+}
+.left1 {
+  position: relative;
+  top: 20px;
+  left: 150px;
+}
+.right1 {
+  position: relative;
+  left: 575px;
+  bottom: 395px;
+}
